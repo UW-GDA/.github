@@ -1,5 +1,5 @@
 # UW Geospatial Data Analysis Course
-#### CEE467/CEWA567 (formerly CEE498/CEWA599)
+#### CEE467/CEWA567
 
 Start here: https://uwgda-jupyterbook.readthedocs.io
 
